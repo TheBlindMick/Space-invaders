@@ -1,0 +1,2 @@
+Beide de library en Spaceinvaders zijn doxygen ready.
+Doxygen is al gerunt in de map Doxyfiles in MPU6050/ en Spaceinvaders/

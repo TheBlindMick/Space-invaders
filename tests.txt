@@ -1,0 +1,2 @@
+Tests zijn te vinden onder MPU6050/test.cpp
+Toevoegen aan Makefile en Makefile veranderen naar native
